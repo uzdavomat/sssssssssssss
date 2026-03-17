@@ -1,0 +1,1 @@
+print('Menin atim Jamshid')
